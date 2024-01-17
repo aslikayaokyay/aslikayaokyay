@@ -2,7 +2,9 @@
 </h1>
 
 [![Github Badge](https://img.shields.io/badge/-aslikayaokyay-000000?style=flat&logo=Github&logoColor=white)](https://github.com/aslikayaokyay "Follow on Github")
+
 [![Gmail Badge](https://img.shields.io/badge/-kayaasli.ak@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kayaasli.ak@gmail.com "Connect via Email")
+
 [![Linkedin Badge](https://img.shields.io/badge/-aslikayaokyay-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aslikayaokyay "Connect on LinkedIn")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslikayaokyay" alt="aslikayaokyay" /> </p>
@@ -21,6 +23,8 @@
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aslikayaokyay.aslikayaokyay)
+
 [![HitCount](http://hits.dwyl.com/samujjwaal/samujjwaal.svg)](http://hits.dwyl.com/aslikayaokyay/aslikayaokyay)
+
 ![Repo Views](https://views.whatilearened.today/views/github/aslikayaokyay/aslikayaokyay.svg?cache=remove)
 
